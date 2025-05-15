@@ -60,22 +60,6 @@ Success rate distribution shows clear outliers worth investigating.
 
 Top agents could help mentor or train others.
 
-📎 How to Use
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/call-center-performance-analysis.git
-cd call-center-performance-analysis
-Open the notebook:
-
-bash
-Copy
-Edit
-jupyter notebook call_center_analysis.ipynb
-Review the analysis or adapt it to your own data.
-
 📘 Learnings
 This project helped strengthen skills in:
 

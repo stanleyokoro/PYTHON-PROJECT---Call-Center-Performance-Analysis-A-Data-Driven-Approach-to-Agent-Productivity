@@ -51,7 +51,7 @@ The dataset includes the following key columns:
 
 ---
 
-📌 Insights & Recommendations
+## 📌 Insights & Recommendations
 Some agents demonstrate high efficiency with fewer calls but higher success rates.
 
 Others make many calls but convert fewer — a coaching opportunity.
@@ -60,7 +60,7 @@ Success rate distribution shows clear outliers worth investigating.
 
 Top agents could help mentor or train others.
 
-📘 Learnings
+## 📘 Learnings
 This project helped strengthen skills in:
 
 Real-world data analysis using Pandas
@@ -71,7 +71,7 @@ Deriving insights from operational datasets
 
 Structuring professional Jupyter Notebooks
 
-👤 Author
+## 👤 Author
 Stanley Chinor Okoro
 📧 stanley.chinor@gmail.com
 🔗 LinkedIn | GitHub

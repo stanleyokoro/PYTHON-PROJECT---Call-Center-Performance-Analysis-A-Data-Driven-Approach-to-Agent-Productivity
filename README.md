@@ -51,15 +51,6 @@ The dataset includes the following key columns:
 
 ---
 
-## 🔍 Key Analysis & Visualizations
-
-### ✅ 1. Success Rate Calculation
-
-We calculated each agent’s success rate using:
-
-```python
-df['Success Rate (%)'] = (df['Calls Answered'] / df['Calls Made']) * 100
-
 📌 Insights & Recommendations
 Some agents demonstrate high efficiency with fewer calls but higher success rates.
 
@@ -68,4 +59,43 @@ Others make many calls but convert fewer — a coaching opportunity.
 Success rate distribution shows clear outliers worth investigating.
 
 Top agents could help mentor or train others.
+
+📎 How to Use
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/call-center-performance-analysis.git
+cd call-center-performance-analysis
+Open the notebook:
+
+bash
+Copy
+Edit
+jupyter notebook call_center_analysis.ipynb
+Review the analysis or adapt it to your own data.
+
+📘 Learnings
+This project helped strengthen skills in:
+
+Real-world data analysis using Pandas
+
+Visualization best practices using Seaborn/Matplotlib
+
+Deriving insights from operational datasets
+
+Structuring professional Jupyter Notebooks
+
+👤 Author
+Stanley Chinor Okoro
+📧 stanley.chinor@gmail.com
+🔗 LinkedIn | GitHub
+
+📌 License
+This project is open-source and available under the MIT License.
+
+🙌 Contributions
+Feedback and contributions are welcome!
+Feel free to fork the repo or submit a pull request.
 

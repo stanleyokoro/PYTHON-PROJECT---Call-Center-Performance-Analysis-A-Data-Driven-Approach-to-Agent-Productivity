@@ -74,7 +74,6 @@ Structuring professional Jupyter Notebooks
 ## 👤 Author
 Stanley Chinor Okoro
 📧 stanley.chinor@gmail.com
-🔗 LinkedIn | GitHub
 
 📌 License
 This project is open-source and available under the MIT License.

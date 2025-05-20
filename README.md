@@ -32,14 +32,6 @@ The main objective of this project is to evaluate the performance of individual 
 
 ---
 
-## 📁 Project Structure
-📁 call-center-performance-analysis
-├── call_center_analysis.ipynb # Jupyter Notebook with full Python code
-└── README.md # Project overview and documentation
-
-
----
-
 ## 📥 Dataset Description
 
 The dataset includes the following key columns:
